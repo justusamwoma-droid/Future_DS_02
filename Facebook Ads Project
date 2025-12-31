@@ -1,0 +1,31 @@
+I am excited to share my latest Power BI dashboard project at Future Interns focused on evaluating Facebook Ads performance and identifying opportunities to improve ROI. This project analyses campaign efficiency, audience behaviour, and budget allocation using advanced DAX measures and interactive visuals to support data-driven marketing decisions.
+
+Key Highlights:
+
+ 1.  Executive KPI overview covering CPC, CPA, CTR, Spend, Clicks, Conversions, and ROI
+
+2. ROI analysis revealing severe budget inefficiencies despite high impressions and clicks
+
+3.  Audience segmentation insights showing stronger cost efficiency among younger age groups (30–34)
+
+4.  Spend vs performance analysis highlighting misalignment in budget allocation across age segments
+
+5.  Daily trend analysis for conversions, clicks, and ROI to monitor campaign consistency
+
+6. Gender-based CPC comparison to evaluate engagement cost differences.
+
+
+
+Business Impact:
+
+ • Identifies underperforming audiences for budget reallocation
+
+ • Supports data-driven optimization of ad targeting and spend efficiency
+
+ • Enables faster decision-making through clear KPI storytelling
+
+
+
+Tools Used: Power BI | DAX | Power Query | Data Modelling
+
+
